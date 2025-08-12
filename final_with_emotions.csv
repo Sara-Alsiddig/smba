@@ -1,0 +1,300 @@
+Unnamed: 0,employment_status,industry,current_role,years_of_experience,genai_org_approval,genai_use,genai_tools_used,genai_frequency_use,genai_importance,skill_integration,skill_learning,simple_tasks_skills,complex_tasks_skills,skillfullness,skills_support,skill_sharing,better_worker,relatedness,tasks_description,emotional_energy,dependancy,reliance,decision_making_confidence,quality_improvement,peers_approval,manager_support,general_disapproval,age_group,gender,highest_level_of_education,country_of_residence,emotional_energy_score
+0.0,Yes,"IT / Tech, Consulting",CEO,More than 15 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard), GitHub Copilot",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), GitHub Copilot",Daily,1.0,5.0,5.0,3.0,5.0,5.0,5.0,3.0,5.0,5.0,"Style, code simplification, unfamiliar or new API usage",I’m comfortable ,3.0,3.0,3.0,4.0,5.0,5.0,5.0,62,Male,Bachelor’s degree,Brazil,
+1.0,Yes,Law,Attorney ,1–3 years,ChatGPT (OpenAI),Yes,ChatGPT (OpenAI),A few times a week,4.0,1.0,3.0,5.0,2.0,2.0,4.0,5.0,3.0,1.0,Translations and text review ,"Ok, it's not a big deal ",1.0,1.0,2.0,4.0,5.0,5.0,5.0,26-35,Female,Bachelor’s degree,Brazil,
+2.0,Yes,IT / Tech,SDE,1–3 years,no,Yes,"ChatGPT (OpenAI), Claude (Anthropic)",A few times a week,3.0,4.0,4.0,2.0,5.0,4.0,5.0,3.0,4.0,2.0,"Debugging, Making Reports, Sending professional emails",Not good,3.0,4.0,4.0,4.0,4.0,3.0,3.0,18-25,Male,Master’s degree,Canada,
+3.0,Yes,IT / Tech,ERP Finance Consultant ,4–7 years,ChatGPT (OpenAI),Yes,ChatGPT (OpenAI),Daily,2.0,2.0,2.0,5.0,4.0,4.0,4.0,5.0,5.0,5.0,"Writing professional emails, solving technical issues ",I usually tend to hide it. ,4.0,4.0,4.0,5.0,3.0,2.0,2.0,26-35,Female,Bachelor’s degree,Canada,
+4.0,Yes,Creative / Media,Marketing manager ,4–7 years,ChatGPT (OpenAI),Yes,ChatGPT (OpenAI),Daily,1.0,5.0,3.0,5.0,5.0,5.0,5.0,4.0,3.0,4.0,"1- search 
+2- marketing plan 
+",Necessary to shorten time and effort,5.0,5.0,4.0,5.0,5.0,1.0,4.0,26-35,Male,Bachelor’s degree,Egypt,
+5.0,Yes,Pre sales in,Pre sale employee ,Less than 1 year,"ChatGPT (OpenAI), Google Gemini (Formerly Bard)",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard)",Daily,1.0,2.0,1.0,5.0,4.0,3.0,4.0,5.0,4.0,3.0,I use to find equation that I can use to estimate the size of places and now the materials  that used to blid  different houses ,Updated,3.0,3.0,3.0,4.0,4.0,3.0,4.0,26-35,Female,Bachelor’s degree,Egypt,
+6.0,Yes,IT / Tech,Tester,1–3 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard), Claude (Anthropic), Microsoft Copilot, GitHub Copilot",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), Claude (Anthropic), Microsoft Copilot, GitHub Copilot",A few times a week,3.0,3.0,5.0,5.0,5.0,5.0,5.0,5.0,3.0,4.0,"Codes, Email Language, Tickets resolving",Good and Effecient,4.0,4.0,4.0,4.0,4.0,4.0,4.0,18-25,Male,Bachelor’s degree,Germany,
+7.0,Yes,IT / Tech,Intern in Corporate IT,1–3 years,Microsoft Copilot,Yes,"ChatGPT (OpenAI), Microsoft Copilot",Daily,1.0,4.0,4.0,5.0,5.0,5.0,5.0,3.0,4.0,4.0,"Email writing, excel macros, template designing, ideas collecting, coding ",Supportive and happy,4.0,3.0,3.0,5.0,4.0,4.0,4.0,26-35,Female,Bachelor’s degree,Germany,
+8.0,Yes,Education / Academia,Master's Thesis Student,1–3 years,"ChatGPT (OpenAI), Claude (Anthropic)",Yes,ChatGPT (OpenAI),A few times a week,3.0,3.0,3.0,2.0,3.0,3.0,3.0,3.0,1.0,1.0,"Sending email, Writing cover letter",Convenient,1.0,1.0,1.0,1.0,3.0,3.0,3.0,26-35,Male,Bachelor’s degree,Germany,
+9.0,Yes,Education / Academia,Team assistant ,1–3 years,,Yes,"ChatGPT (OpenAI), Deepseek, Google AI Studio",Daily,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,"- Writing emails.
+- Instructions to use tools.
+- Replacement to Microsoft office ",All is good as long as it complies with Data protection.,5.0,5.0,5.0,5.0,,,,26-35,Female,Master’s degree,Germany,
+10.0,Yes,IT / Tech,Software Developer,1–3 years,GitHub Copilot,Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), Claude (Anthropic), GitHub Copilot",A few times a week,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,"Debugging, code review, code improvements",Unprofessional,3.0,3.0,3.0,3.0,3.0,3.0,3.0,18-25,Female,Bachelor’s degree,Germany,
+11.0,Yes,IT / Tech,BI,4–7 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard), Microsoft Copilot",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard)",Rarely,2.0,3.0,3.0,4.0,4.0,4.0,4.0,4.0,3.0,2.0,"debugging code errors, code optimization",less comfortable.,1.0,2.0,2.0,4.0,4.0,4.0,4.0,26-35,Male,Bachelor’s degree,Germany,
+12.0,Yes,IT / Tech,Software engineer ,1–3 years,ChatGPT (OpenAI),Yes,ChatGPT (OpenAI),Daily,1.0,3.0,4.0,2.0,4.0,4.0,3.0,3.0,4.0,3.0,"Writing code, Command Line prompts, Git commands and also brain storming ideas",Neutral,3.0,4.0,4.0,5.0,3.0,3.0,4.0,26-35,Male,Bachelor’s degree,Germany,
+13.0,Yes,"IT / Tech, Education / Academia",Teaching Assistant ,1–3 years,Consensus,Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), Claude (Anthropic)",A few times a week,2.0,4.0,4.0,5.0,4.0,5.0,4.0,5.0,4.0,3.0,"I used Gen AI to build generative AI models, work on automation-related projects, and solve complex mathematical problems.",Using Gen AI has made my work more efficient. It’s exciting to embrace new technologies that enhance productivity.,4.0,4.0,4.0,4.0,3.0,3.0,3.0,26-35,Male,Master’s degree,Germany,
+14.0,Yes,Education / Academia,,4–7 years,,Yes,"ChatGPT (OpenAI), Microsoft Copilot, GitHub Copilot",Daily,3.0,2.0,3.0,3.0,2.0,3.0,2.0,2.0,3.0,4.0,Refining letters coding and translations ,Good,3.0,3.0,3.0,2.0,2.0,2.0,3.0,26-35,Male,Master’s degree,Germany,
+15.0,Yes,Education / Academia,Content Author,4–7 years,"It wasn't explicitly told, but I've seen colleagues using ChatGPT openly.",Yes,ChatGPT (OpenAI),A few times a week,2.0,4.0,5.0,5.0,4.0,3.0,3.0,5.0,4.0,2.0,"Help me write emails or messages I wasn't sure were clear enough, and paraphrase content I had developed to become more succinct.","Uncomfortable, since it makes me feel like I'm losing credit for my work.",4.0,5.0,4.0,2.0,3.0,3.0,4.0,26-35,Female,Master’s degree,Germany,
+16.0,Yes,Manufacturing of 3d Printed equipment,Devloper and Assistant (but no official title),Less than 1 year,ChatGPT (OpenAI),Yes,ChatGPT (OpenAI),A few times a month,3.0,5.0,5.0,5.0,4.0,4.0,3.0,4.0,5.0,1.0,Help with writing Google App Scripts. Help with writing Google sheet functions,"I feel indifferent to it's use for work and see it as another tool, and my employer doesn't mind it's use. I try my best to avoid it for academic tasks however.",1.0,1.0,2.0,2.0,5.0,5.0,1.0,18-25,Male,Bachelor’s degree,Germany,
+17.0,Yes,Education / Academia,Student Assistant,Less than 1 year,,Yes,ChatGPT (OpenAI),Daily,1.0,2.0,3.0,5.0,5.0,5.0,5.0,2.0,5.0,5.0,writing professional emails/ laying out an intial work structure to tackle a specific problem or task/ ,bad about myself/ i am trying to rely on it less but this is the reality of things ,5.0,5.0,5.0,5.0,,,,18-25,Female,Master’s degree,Germany,
+18.0,Yes,IT / Tech,Software Engineer,4–7 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard), Claude (Anthropic), Microsoft Copilot, Midjourney, GitHub Copilot, Consensus, All AI tools are allowed",Yes,"ChatGPT (OpenAI), GitHub Copilot, DeepSeek",A few times a week,3.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,1.0,"Writing emails, automatic code and developer comments completion, help with writing developer documentation","It feels neutral, although it sometimes makes me question my actual abilities",2.0,4.0,3.0,5.0,5.0,5.0,2.0,18-25,Male,Bachelor’s degree,Germany,
+19.0,Yes,"IT / Tech, Education / Academia",Student assistant,4–7 years,ChatGPT (OpenAI),Yes,ChatGPT (OpenAI),A few times a week,3.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,2.0,3.0,1. Correcting homework and some questions are open-ended. Sometimes the answers are very ambiguous so I would ask Chat GPT if it’s correct. 2. Programming and the package imports or dependencies are causing issues so I would solve it using Gen AI,I don’t mind because I know I do the majority of the work myself. I use Gen AI like I would use Google or YouTube tutorials; as a supplementary support and not as the source of all my thinking. ,1.0,4.0,3.0,5.0,4.0,4.0,5.0,18-25,Female,Bachelor’s degree,Germany,
+20.0,Yes,IT / Tech,AI Engineer ,1–3 years,Google Gemini (Formerly Bard),Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard)",Daily,4.0,4.0,2.0,3.0,5.0,2.0,5.0,5.0,5.0,5.0,"Solve hard bugs and write code, understand some concepts and brainstorm for ideas and recent tech used. ","I feel confident in accomplishing tasks and relieved that I can find solutions and support through AI tools. However, at the same time, I feel like I’m not fully using my own thinking when it comes to calculations and complex problem analysis. This makes me feel like I’m relying on AI more than on myself, and I worry that I’m losing trust in my own ability to solve problems independently.",4.0,4.0,4.0,5.0,5.0,5.0,2.0,36-45,Female,Master’s degree,Germany,
+21.0,Yes,Education / Academia,Lecturer ,8–15 years,It’s not formally approved yet,Yes,"ChatGPT (OpenAI), Microsoft Copilot",A few times a week,2.0,3.0,3.0,4.0,5.0,3.0,4.0,2.0,4.0,4.0,"Quizes and discussion tasks, besides somtimes simplifications of some terminologies ","I have to reflect the use if AI ethically that i am not depending on it alone, where i have to make sure about the resources because not all of thrm are mostly correct.",5.0,4.0,4.0,4.0,4.0,2.0,4.0,26-35,Female,Doctorate (PhD or equivalent),Germany,
+22.0,Yes,Creative / Media,Freelance translator,4–7 years,Quillbot,Yes,"ChatGPT (OpenAI), Microsoft Copilot",A few times a month,3.0,2.0,5.0,5.0,3.0,4.0,4.0,4.0,4.0,1.0,"- Full translation of simple scripts.
+- Paraphrasing of content.
+- Checking fluency of written content.",Ok as long as I proofread and make sure that the AI generated content is up to par.,4.0,4.0,3.0,4.0,5.0,4.0,3.0,26-35,Female,Bachelor’s degree,Germany,
+23.0,Yes,Healthcare,Doctor,4–7 years,,Yes,ChatGPT (OpenAI),A few times a month,3.0,1.0,2.0,4.0,4.0,2.0,3.0,3.0,5.0,2.0,"Organising my schedule, preparing my paperwork and presentations",I feel ok,2.0,3.0,2.0,3.0,2.0,2.0,2.0,26-35,Female,Master’s degree,Germany,
+24.0,Yes,Education / Academia,PhD student,8–15 years,ChatGPT (OpenAI),Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), Microsoft Copilot, GitHub Copilot",Daily,3.0,3.0,2.0,3.0,3.0,2.0,3.0,3.0,3.0,3.0,I use it basically as an alternative to Google search it made it more effective to find the right resource more easily,Normal,5.0,5.0,4.0,3.0,3.0,3.0,3.0,26-35,Female,Master’s degree,Germany,
+25.0,Yes,Education / Academia,Research assistant ,4–7 years,ChatGPT (OpenAI),Yes,ChatGPT (OpenAI),Daily,2.0,3.0,3.0,5.0,5.0,3.0,3.0,4.0,4.0,4.0,"Email writing 
+Scientific Research questions ",Its okey ,4.0,4.0,3.0,5.0,3.0,1.0,4.0,26-35,Male,Master’s degree,Germany,
+26.0,Yes,Education / Academia,Dr.,8–15 years,"Google Gemini (Formerly Bard), Claude (Anthropic), Microsoft Copilot",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), Claude (Anthropic), Microsoft Copilot",Daily,4.0,4.0,4.0,4.0,5.0,4.0,4.0,5.0,5.0,4.0,.,.,4.0,4.0,4.0,5.0,5.0,2.0,5.0,36-45,Female,Doctorate (PhD or equivalent),Germany,
+27.0,Yes,IT / Tech,Data Scientist ,Less than 1 year,"Claude (Anthropic), GitHub Copilot",Yes,"ChatGPT (OpenAI), Claude (Anthropic), GitHub Copilot",Daily,2.0,3.0,5.0,2.0,5.0,4.0,5.0,3.0,4.0,4.0,"Programming tasks, analysis",Not good,5.0,4.0,4.0,4.0,4.0,2.0,3.0,26-35,Female,Bachelor’s degree,Germany,
+28.0,Yes,Government / Public sector,Executive ,Less than 1 year,"ChatGPT (OpenAI), Microsoft Copilot",Yes,ChatGPT (OpenAI),A few times a month,3.0,3.0,4.0,2.0,5.0,4.0,5.0,5.0,3.0,2.0,"Draft professional mail, preparing presentations ",I feel more productive as it becomes a time saving tool while doing work related tasks,3.0,2.0,3.0,5.0,5.0,4.0,5.0,18-25,Female,Bachelor’s degree,India,
+29.0,Yes,Education / Academia,Teacher ,1–3 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard)",Yes,ChatGPT (OpenAI),Rarely,,3.0,2.0,4.0,3.0,3.0,2.0,1.0,5.0,4.0,Don’t know ,Good ,2.0,4.0,4.0,4.0,4.0,4.0,4.0,18-25,Female,Bachelor’s degree,India,
+30.0,Yes,IT / Tech,Software developer ,1–3 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard), Claude (Anthropic), Microsoft Copilot",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), Claude (Anthropic), Microsoft Copilot, GitHub Copilot",Daily,1.0,5.0,5.0,3.0,5.0,5.0,3.0,,4.0,4.0,"Coding 
+Testing ",Na,,,,,,,,18-25,Male,Bachelor’s degree,India,
+31.0,Yes,"IT / Tech, ",Sr. Quality engg,1–3 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard)",Yes,"ChatGPT (OpenAI), Claude (Anthropic)",Daily,5.0,5.0,5.0,1.0,5.0,5.0,5.0,5.0,5.0,5.0,Making apps using AI for work,Yes,5.0,5.0,5.0,5.0,5.0,5.0,5.0,26-35,Female,Bachelor’s degree,India,
+32.0,Yes,IT / Tech,Software engineer ,Less than 1 year,Microsoft Copilot,Yes,"ChatGPT (OpenAI), Microsoft Copilot",A few times a month,2.0,2.0,4.0,1.0,1.0,3.0,1.0,2.0,4.0,4.0,Rearly use for the information that I need in my work about my work task,It's good gen ai really helpful in work related tasks,2.0,4.0,4.0,4.0,4.0,4.0,4.0,18-25,Female,Bachelor’s degree,India,
+33.0,Yes,IT / Tech,Senior exec,1–3 years,Nope,Yes,ChatGPT (OpenAI),A few times a week,3.0,3.0,4.0,5.0,3.0,4.0,5.0,4.0,4.0,5.0,Basic Google questions ,Happy for the help ,3.0,4.0,5.0,3.0,4.0,5.0,3.0,26-35,Male,Bachelor’s degree,India,
+34.0,Yes,Education / Academia,Assistant Professor,8–15 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard), Microsoft Copilot, GitHub Copilot",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), Microsoft Copilot, GitHub Copilot",Daily,1.0,3.0,5.0,1.0,5.0,4.0,4.0,4.0,4.0,4.0,"Creating case Studies, higher order thinking based assignments and creating presentations ",Technologies are bound to make work easier and makes me more productive hence I feel completely relax to report the same,2.0,2.0,2.0,5.0,4.0,5.0,5.0,26-35,Female,Master’s degree,India,
+35.0,Yes,IT / Tech,SRE/DEVOPS,1–3 years,Microsoft Copilot,Yes,Microsoft Copilot,A few times a week,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,"Coding, shell scripting, Email",Cool,4.0,4.0,5.0,5.0,3.0,4.0,5.0,18-25,Male,Bachelor’s degree,India,
+36.0,Yes,Creative / Media,Jewellery Desinger,Less than 1 year,"ChatGPT (OpenAI), Google Gemini (Formerly Bard)",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard)",A few times a week,3.0,3.0,3.0,4.0,2.0,3.0,3.0,3.0,3.0,3.0,"1.Jewelry Design Ideas:
+Used Gen AI to generate creative concepts, collection names, and mood boards for jewelry projects.
+2.Market Research:
+Used AI to gather insights on trends, brands, and competitors for better design alignment.","It feels empowering to use Gen AI it helped me brianstrom faster, visualize design direction clearly, and explore more variations than i colud manually in the same time ",3.0,3.0,2.0,3.0,3.0,3.0,3.0,18-25,Female,Bachelor’s degree,India,
+37.0,Yes,IT / Tech,Software Developer ,Less than 1 year,No,Yes,ChatGPT (OpenAI),Rarely,4.0,3.0,3.0,3.0,,4.0,4.0,4.0,4.0,2.0,Get some clarification on business logic,Nice,2.0,1.0,2.0,4.0,2.0,1.0,2.0,18-25,Male,Bachelor’s degree,India,
+38.0,Yes,Education / Academia,Assistant Professor ,24,"Not approved,but I often used GPT and Gemini ",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard)",A few times a month,4.0,4.0,4.0,1.0,5.0,3.0,4.0,2.0,3.0,3.0,"For learning excel formulas, for solving complicated numericals",Knowledgeable and confident,3.0,3.0,3.0,3.0,3.0,3.0,3.0,46-55,Female,Master’s degree,India,
+39.0,Yes,IT / Tech,Machine Learning Developer,1–3 years,"ChatGPT (OpenAI), Microsoft Copilot",Yes,Microsoft Copilot,Never,3.0,4.0,4.0,2.0,4.0,4.0,3.0,4.0,4.0,3.0,.,".
+
+",3.0,3.0,2.0,3.0,3.0,2.0,3.0,18-25,Female,Bachelor’s degree,India,
+40.0,Yes,IT / Tech,Salesforce Developer ,1–3 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard)",Yes,ChatGPT (OpenAI),Rarely,2.0,3.0,3.0,2.0,5.0,3.0,5.0,3.0,3.0,5.0,"In writing complex logic, For solving errors ",Not great ,4.0,3.0,3.0,4.0,4.0,3.0,4.0,18-25,Female,Bachelor’s degree,India,
+41.0,Yes,IT / Tech,Software Engineer,1–3 years,ChatGPT (OpenAI),Yes,"ChatGPT (OpenAI), Claude (Anthropic), GitHub Copilot",A few times a week,1.0,4.0,5.0,4.0,4.0,4.0,4.0,4.0,4.0,3.0,"Code Review, Function or Code snippet optimization, Draft replies to client queries or emails.","I use it to improve me work quality and efficiency and do not blindly follow it, thus, I can confidently say that I use Gen AI only to deliver better solutions.",3.0,2.0,3.0,4.0,4.0,4.0,4.0,18-25,Male,Bachelor’s degree,India,
+42.0,Yes,Manufacturing industry ,Process engineer ,1–3 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard), GitHub Copilot",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), GitHub Copilot",Daily,1.0,2.0,4.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,"AI is used in daily working life to prepare task manuals, confirm engineering data for simulation, and support with basic engineering package data like CAS numbers, molecular structure, and micro-level details.","Using Gen AI for work-related tasks makes me feel more confident and efficient. It supports me in handling complex data, reduces repetitive work, and helps ensure accuracy in simulations and documentation. It is  a valuable tool that enhances my productivity without replacing critical engineering judgment.",5.0,5.0,5.0,4.0,4.0,5.0,5.0,18-25,Female,Bachelor’s degree,India,
+43.0,Yes,IT / Tech,Associate Consultant,1–3 years,"Microsoft Copilot, GitHub Copilot",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard)",A few times a month,3.0,4.0,5.0,4.0,5.0,5.0,4.0,5.0,3.0,3.0,"Generating SQL queries, Process of setting up internal environment, To upskill",Not very good,2.0,4.0,4.0,4.0,4.0,2.0,3.0,18-25,Female,Bachelor’s degree,India,
+44.0,Yes,Creative / Media,Social media marketer,Less than 1 year,"ChatGPT (OpenAI), Google Gemini (Formerly Bard), Claude (Anthropic), Microsoft Copilot, Midjourney, GitHub Copilot",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), Claude (Anthropic), Microsoft Copilot, Midjourney, GitHub Copilot",Daily,5.0,1.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,4.0,"- To make creatives
+- To do automation 
+- To search
+
+
+",It make me feel efficient and up-to-date.,3.0,3.0,5.0,4.0,4.0,4.0,5.0,26-35,Female,Bachelor’s degree,India,
+45.0,Yes,IT / Tech,Data Engineer ,1–3 years,"Microsoft Copilot, GitHub Copilot",Yes,"Microsoft Copilot, GitHub Copilot",A few times a week,3.0,4.0,4.0,5.0,4.0,5.0,4.0,5.0,5.0,4.0,"I’ve used Gen AI to:
+
+Write and optimize SQL/Spark queries for data analysis and transformation.
+
+Draft documentation and technical summaries for pipelines and data workflows.
+
+Troubleshoot code and debug errors by exploring possible fixes and best practices.","I feel confident using Gen AI for work—it boosts my productivity and helps me solve problems faster, as long as I validate the output.",3.0,4.0,5.0,5.0,5.0,5.0,5.0,18-25,Male,Bachelor’s degree,India,
+46.0,Yes,"IT / Tech, Healthcare",Senior Software Engineer,1–3 years,,Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), Microsoft Copilot, GitHub Copilot",A few times a week,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,"I used Gen AI to assist in:
+
+Generating boilerplate code for React components, Redux stores, API service layers, and unit tests.
+Refactoring large legacy JavaScript files into modular, readable, and optimized ES6+ code.
+Ensuring code followed best practices like DRY (Don't Repeat Yourself) and SOLID principles.","It feels good to:
+
+Leverage cutting-edge tools to work smarter, not harder.
+Save time on repetitive or complex tasks, allowing more focus on creative problem-solving and high-impact work.
+Stay ahead in a fast-evolving tech landscape by embracing AI as a collaborative assistant, not a replacement.",4.0,3.0,4.0,4.0,4.0,4.0,4.0,18-25,Male,Bachelor’s degree,India,
+47.0,Yes,Education / Academia,Teacher ,1–3 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard), Microsoft Copilot",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), Microsoft Copilot",Daily,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,"1. Creating weekly planning schedule 
+2. Creating extra complex or simple tests using the PDFs
+3. Creating simple yet descriptive powerpoint presentations for teaching purpose ",It's more easy to create/ plan/ generate/ and many more things to do using ai.,5.0,5.0,5.0,5.0,5.0,5.0,5.0,26-35,Male,Master’s degree,India,
+48.0,Yes,IT / Tech,Software Engineer ,Less than 1 year,"ChatGPT (OpenAI), Google Gemini (Formerly Bard), Microsoft Copilot, GitHub Copilot",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), Microsoft Copilot, GitHub Copilot",Daily,4.0,3.0,3.0,1.0,5.0,4.0,4.0,4.0,4.0,4.0,"Drafting professional emails and client communications more quickly.
+"," I feel efficient and empowered. Using Gen AI helps me save time and improves the quality of my work. However, sometimes I worry about whether others might think I'm relying on it too much or not using my own skills.
+",3.0,4.0,3.0,3.0,4.0,4.0,4.0,18-25,Male,Bachelor’s degree,India,
+49.0,Yes,"IT / Tech, Education / Academia",PhD scholar AI/ML,4–7 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard)",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard)",A few times a week,1.0,3.0,3.0,3.0,4.0,4.0,3.0,4.0,3.0,3.0,"New idea,writing code,brainstorm ",Great ,3.0,3.0,3.0,3.0,3.0,3.0,2.0,26-35,Female,Doctorate (PhD or equivalent),India,
+50.0,Yes,IT / Tech,Associate,1–3 years,"Microsoft Copilot, GitHub Copilot",Yes,Microsoft Copilot,A few times a week,1.0,4.0,4.0,4.0,5.0,4.0,5.0,4.0,5.0,5.0,"Writing emails, complex scripts etc",Its great and supportive,4.0,3.0,5.0,5.0,5.0,5.0,4.0,18-25,Male,Bachelor’s degree,India,
+51.0,Yes,IT / Tech,Software Engineer,1–3 years,ChatGPT (OpenAI),Yes,ChatGPT (OpenAI),A few times a week,3.0,2.0,3.0,4.0,3.0,1.0,3.0,3.0,3.0,3.0,"Search of any new technologies,",Much faster work can do,3.0,3.0,3.0,3.0,2.0,2.0,2.0,26-35,Male,Bachelor’s degree,India,
+52.0,Yes,Creative / Media,Senior designer ,1–3 years,"ChatGPT (OpenAI), Midjourney",Yes,"ChatGPT (OpenAI), Midjourney",A few times a month,3.0,2.0,2.0,4.0,4.0,4.0,4.0,4.0,2.0,2.0,,,4.0,3.0,3.0,3.0,4.0,4.0,3.0,18-25,Female,Bachelor’s degree,India,
+53.0,Yes,IT / Tech,Software Engineer ,1–3 years,,Yes,ChatGPT (OpenAI),A few times a month,3.0,4.0,5.0,5.0,4.0,4.0,4.0,4.0,4.0,4.0,Basic tasks which are easy to do but boring to type,Good as the labour work was done by AI,3.0,3.0,3.0,4.0,4.0,5.0,4.0,18-25,Male,Bachelor’s degree,India,
+54.0,Yes,Education / Academia,Teacher,8–15 years,ChatGPT (OpenAI),Yes,ChatGPT (OpenAI),Rarely,1.0,2.0,2.0,3.0,3.0,3.0,2.0,2.0,1.0,1.0,Its easy,Nice,4.0,1.0,2.0,2.0,1.0,1.0,2.0,36-45,Male,Bachelor’s degree,India,
+55.0,Yes,IT / Tech,Technical Consultant ,Less than 1 year,"ChatGPT (OpenAI), Microsoft Copilot, GitHub Copilot",Yes,"ChatGPT (OpenAI), Microsoft Copilot",Daily,2.0,4.0,3.0,2.0,5.0,3.0,3.0,4.0,4.0,3.0,For getting more information about technical stuff ,Good,2.0,2.0,2.0,2.0,2.0,3.0,2.0,18-25,Female,Bachelor’s degree,Ireland {Republic},
+56.0,Yes,Oil & Gas,And. Drilling Engineer,More than 15 years,,Yes,ChatGPT (OpenAI),Rarely,4.0,1.0,3.0,5.0,3.0,3.0,4.0,,3.0,3.0,Emails modification mainly,Rarely used AI for work related tasks.,3.0,2.0,3.0,3.0,1.0,1.0,1.0,36-45,Male,Bachelor’s degree,Qatar,
+57.0,Yes,IT / Tech,Help desk ,1–3 years,ChatGPT (OpenAI),Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), Midjourney",A few times a week,4.0,3.0,4.0,2.0,4.0,4.0,5.0,5.0,5.0,5.0,Sheets. Letters. Troubleshooting ,My organization encourages using aid of ai,3.0,4.0,4.0,5.0,5.0,5.0,5.0,26-35,Male,Master’s degree,Qatar,
+58.0,Yes,IT / Tech,,8–15 years,Copilot ,Yes,ChatGPT (OpenAI),A few times a week,3.0,3.0,3.0,5.0,1.0,3.0,3.0,2.0,1.0,1.0,Search in doc library ,Normal,3.0,1.0,1.0,3.0,5.0,5.0,5.0,36-45,Prefer not to say,Master’s degree,Qatar,
+59.0,Yes,IT / Tech,Monitoring & Evaluation Officer,1–3 years,ChatGPT (OpenAI),Yes,ChatGPT (OpenAI),A few times a week,3.0,4.0,3.0,2.0,4.0,4.0,5.0,3.0,3.0,4.0,"Generate content in English, develop monitoring & evaluation plans, and write case studies from our context in humanitarian job.",A little bit shameful ,4.0,3.0,2.0,4.0,2.0,1.0,4.0,26-35,Female,Bachelor’s degree,Qatar,
+60.0,Yes,IT / Tech,Oracle EBS financial consultant,8–15 years,No,Yes,Microsoft Copilot,A few times a week,4.0,3.0,3.0,3.0,3.0,3.0,3.0,5.0,2.0,2.0,Some outlook changes i did for my email,Its ok for me no problem to report that if it happened,5.0,4.0,5.0,5.0,1.0,3.0,5.0,36-45,Female,Bachelor’s degree,Qatar,
+61.0,Yes,Finance / Banking,IT Support Engineer ,4–7 years,"ChatGPT (OpenAI), Microsoft Copilot, GitHub Copilot",Yes,ChatGPT (OpenAI),A few times a week,2.0,2.0,2.0,1.0,2.0,3.0,2.0,2.0,1.0,1.0,Professional and formal Email writing ,"Like cheating, because it will look like i didn’t do the work myself. ",1.0,1.0,1.0,2.0,2.0,1.0,1.0,26-35,Female,Bachelor’s degree,Qatar,
+62.0,Yes,IT / Tech,It Consultant ,More than 15 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard)",Yes,ChatGPT (OpenAI),Daily,1.0,2.0,2.0,5.0,3.0,2.0,3.0,4.0,2.0,2.0,Email trubshooting knowledge ,Good,5.0,2.0,3.0,2.0,4.0,3.0,5.0,46-55,Male,Master’s degree,Qatar,
+63.0,Yes,Education / Academia,Teacer,4–7 years,ChatGPT (OpenAI),Yes,ChatGPT (OpenAI),A few times a week,3.0,3.0,4.0,2.0,4.0,3.0,4.0,3.0,3.0,3.0,Search about information & how to write perfect emails ,Normally ,3.0,3.0,4.0,4.0,4.0,4.0,4.0,36-45,Female,Bachelor’s degree,Qatar,
+64.0,Yes,Government / Public sector,BI consultant ,8–15 years,Microsoft Copilot,Yes,"ChatGPT (OpenAI), Claude (Anthropic)",A few times a week,2.0,3.0,3.0,3.0,5.0,3.0,5.0,4.0,5.0,3.0,"Code correction
+Demonstrate and breakdown ideas",I am ok with that,3.0,3.0,3.0,3.0,2.0,4.0,3.0,36-45,Male,Master’s degree,Saudi Arabia,
+65.0,Yes,IT / Tech,Business developer ,4–7 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard)",Yes,ChatGPT (OpenAI),A few times a month,2.0,3.0,3.0,1.0,3.0,5.0,3.0,5.0,3.0,4.0,"Data analysis 
+Goals breakdown  ",Confidante ,3.0,3.0,3.0,5.0,3.0,4.0,5.0,26-35,Male,Bachelor’s degree,Saudi Arabia,
+66.0,Yes,Consulting,Quality Assurance Ofiicer,8–15 years,"No, up to now. I'm using it personally",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard)",A few times a month,2.0,3.0,5.0,4.0,4.0,3.0,2.0,5.0,5.0,5.0,"Audit Finfing Report
+Strategic Planning","Creative, Initiative",3.0,3.0,4.0,4.0,3.0,3.0,4.0,36-45,Male,Bachelor’s degree,Saudi Arabia,
+67.0,Yes,IT / Tech,Application support team leader ,8–15 years,ChatGPT (OpenAI),Yes,ChatGPT (OpenAI),A few times a month,5.0,5.0,3.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,"Formal emails
+Sql commands
+Writing Reports",Confident ,5.0,5.0,5.0,5.0,3.0,5.0,5.0,36-45,Female,Master’s degree,Saudi Arabia,
+68.0,Yes,IT / Tech,Data Engineer,8–15 years,"ChatGPT (OpenAI), Microsoft Copilot, GitHub Copilot",Yes,"ChatGPT (OpenAI), Microsoft Copilot, GitHub Copilot",Daily,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,Everything in my life and all my daily task I use AI ,Professional ,5.0,5.0,5.0,5.0,5.0,5.0,5.0,26-35,Male,Bachelor’s degree,Saudi Arabia,
+69.0,Yes,Healthcare,Pharmacist,8–15 years,ChatGPT (OpenAI),Yes,ChatGPT (OpenAI),A few times a month,1.0,4.0,5.0,4.0,4.0,4.0,4.0,4.0,3.0,3.0,Searching for new drugs use and interactions that i don't know,Neutral ,3.0,3.0,3.0,4.0,3.0,3.0,4.0,26-35,Male,Bachelor’s degree,Saudi Arabia,
+70.0,Yes,Consulting,Site Electrical Engineer,1–3 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard)",Yes,ChatGPT (OpenAI),A few times a week,1.0,3.0,3.0,5.0,3.0,1.0,1.0,3.0,5.0,5.0,"1. Writing and rephrasing emails and reports.
+
+2. Preparing technical documents like proposals and specifications.
+
+3. Analyzing data and writing simple automation scripts.
+","It feels efficient and empowering. Using Gen AI helps get things done faster, with more clarity, and improves the quality of communication and documentation. It’s a smart tool, not a shortcut",1.0,3.0,2.0,5.0,3.0,1.0,3.0,26-35,Male,Bachelor’s degree,Saudi Arabia,
+71.0,Yes,IT / Tech,Solution Architect ,More than 15 years,"ChatGPT (OpenAI), Microsoft Copilot",Yes,"ChatGPT (OpenAI), Microsoft Copilot",A few times a week,4.0,4.0,5.0,2.0,5.0,4.0,4.0,5.0,3.0,1.0,To confirm network design or upgrade current design ,Normal because companies know that AI will help the company ,1.0,2.0,3.0,4.0,5.0,5.0,5.0,36-45,Male,Master’s degree,Saudi Arabia,
+72.0,Yes,IT / Tech,CTO IN GLASFASER FIRMA,8–15 years,ChatGPT (OpenAI),Yes,ChatGPT (OpenAI),A few times a week,5.0,3.0,2.0,3.0,4.0,4.0,4.0,4.0,5.0,5.0,Anything related to my work need AI ,Satisfaction ,3.0,4.0,4.0,4.0,5.0,4.0,3.0,26-35,Male,Master’s degree,Sudan,
+73.0,Yes,"Education / Academia, Consulting",Water Engineer,4–7 years,ChatGPT (OpenAI),Yes,ChatGPT (OpenAI),Daily,1.0,4.0,4.0,5.0,5.0,4.0,5.0,3.0,4.0,4.0,"Brainstorming, Analysis, validation ",Updated and tech-skilled,4.0,3.0,3.0,4.0,4.0,5.0,5.0,26-35,Female,Master’s degree,Sudan,
+74.0,Yes,"IT / Tech, Consulting",Senior IT ,4–7 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard), Claude (Anthropic), Microsoft Copilot, Midjourney, GitHub Copilot, Stable diffusion, comfy Ui , gpt4all, ooga boga webui",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), Claude (Anthropic), Microsoft Copilot, Midjourney, GitHub Copilot",Daily,5.0,4.0,3.0,3.0,4.0,4.0,4.0,3.0,5.0,5.0,"Idea storming, problem solving, create manual for dummies ","I feel its like using a calculator in math exam, some may consider it cheating while others normalise it",3.0,3.0,3.0,3.0,3.0,2.0,3.0,26-35,Male,Bachelor’s degree,Sudan,
+75.0,Yes,"IT / Tech, Non ",Program coordinator ,4–7 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard)",Yes,ChatGPT (OpenAI),Daily,2.0,3.0,4.0,5.0,4.0,3.0,3.0,5.0,4.0,5.0,.,.,3.0,3.0,3.0,3.0,3.0,3.0,3.0,18-25,Male,Bachelor’s degree,Sudan,
+76.0,Yes,IT / Tech,Software engineer,4–7 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard), Claude (Anthropic), Microsoft Copilot, Midjourney, GitHub Copilot",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), GitHub Copilot",Daily,5.0,4.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,2.0,Build a JWT based authentication service that integrates with LDAP. Write a feature description document to submit to QA for testing. Build custom UI components with native js. ,"I don’t have to report that, I feel good about it, it demonstrates I have a new skill that improves my work quality and productivity. ",4.0,5.0,5.0,5.0,5.0,5.0,5.0,26-35,Prefer not to say,Bachelor’s degree,Sudan,
+77.0,Yes,Healthcare,Dentist ,4–7 years,ChatGPT (OpenAI),Yes,ChatGPT (OpenAI),Daily,1.0,,5.0,5.0,3.0,3.0,4.0,3.0,5.0,5.0,"Dryg interaction, check noramal average, diagnosis ",I don't report that,5.0,4.0,5.0,5.0,3.0,,,26-35,Female,Master’s degree,Sudan,
+78.0,Yes,Research,Senior Researcher,8–15 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard), Claude (Anthropic), Microsoft Copilot, Midjourney, GitHub Copilot, Consensus",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), Claude (Anthropic), Microsoft Copilot, Midjourney, GitHub Copilot, Consensus",Daily,5.0,5.0,5.0,3.0,5.0,5.0,5.0,5.0,4.0,4.0,"For summarising research documents, and for creating reports",I am completely okay with everyone knowing that,3.0,3.0,4.0,5.0,3.0,3.0,3.0,26-35,Male,Doctorate (PhD or equivalent),Turkey,
+79.0,Yes,Export Sales Development ,Export Sales Specialist ,1–3 years,We do not have any officially approved AI tools but ChatGPT is widely used by employees within our organisation.,Yes,ChatGPT (OpenAI),Daily,1.0,3.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,Preparing sales contracts and promotional emails,"I will be happy to disclose this fact, nothing to be ashamed of, in fact it proves that I employ all tools at hand effectively to get my job done.",5.0,5.0,5.0,5.0,5.0,5.0,5.0,26-35,Male,Master’s degree,Turkey,
+80.0,Yes,Finance / Banking,Tech lead ,8–15 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard), Claude (Anthropic), Microsoft Copilot, GitHub Copilot",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), Claude (Anthropic), Microsoft Copilot, Midjourney",Daily,3.0,4.0,3.0,2.0,5.0,4.0,5.0,5.0,5.0,4.0,"* Drafting and Refining Communications: 
+I use Gen AI to help draft and improve emails, reports, and formal communication. It assists with grammar, tone, and clarity, helping me save time while ensuring professional quality.
+* Data Analysis and Summarization: 
+I use Gen AI to summarize large documents or datasets, making it easier to extract key insights quickly—especially useful for reviewing reports, policies, or research.
+* Idea Generation and Problem Solving: 
+I often use Gen AI to brainstorm solutions, generate ideas for process improvements, or explore different approaches to a challenge. It’s a helpful starting point for innovation and critical thinking.
+",Using Gen AI for work-related tasks makes me feel empowered and efficient. It allows me to handle repetitive or time-consuming tasks more quickly.,2.0,5.0,4.0,5.0,5.0,5.0,4.0,46-55,Male,Bachelor’s degree,Uganda,
+81.0,Yes,Education / Academia,English Language Teacher ,4–7 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard)",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), Deepseek ",A few times a week,2.0,5.0,5.0,4.0,5.0,5.0,5.0,3.0,3.0,5.0,"Prepare lessons and homeworks, measuring result of the students",Fine by me,3.0,4.0,3.0,5.0,5.0,5.0,3.0,26-35,Male,Bachelor’s degree,United Arab Emirates,
+82.0,Yes,IT / Tech,Senior Software Engineer ,8–15 years,"ChatGPT (OpenAI), Claude (Anthropic), GitHub Copilot",Yes,"ChatGPT (OpenAI), Claude (Anthropic)",Daily,3.0,3.0,3.0,2.0,4.0,3.0,3.0,5.0,4.0,4.0,"Find solutions for my work, fix bug of code، ",It's normal to do that ,3.0,4.0,4.0,4.0,4.0,5.0,5.0,26-35,Male,Master’s degree,United Arab Emirates,
+83.0,Yes,IT / Tech,Business Analyst ,4–7 years,"ChatGPT (OpenAI), Microsoft Copilot, GitHub Copilot",Yes,"ChatGPT (OpenAI), Manus",Rarely,2.0,4.0,5.0,4.0,4.0,4.0,4.0,4.0,5.0,4.0,"Enhance email, help in the plan,ideas",Good,4.0,4.0,4.0,4.0,4.0,4.0,4.0,26-35,Male,Bachelor’s degree,United Arab Emirates,
+84.0,Yes,IT / Tech,Software engineer,8–15 years,"Microsoft Copilot, GitHub Copilot",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), Microsoft Copilot, GitHub Copilot",Daily,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,Automation testing ,I can do this ,5.0,5.0,5.0,5.0,5.0,5.0,5.0,26-35,Female,Master’s degree,United Arab Emirates,
+85.0,Yes,IT / Tech,DevOps Lead,4–7 years,Microsoft Copilot,Yes,Microsoft Copilot,A few times a week,4.0,4.0,4.0,5.0,5.0,5.0,3.0,5.0,3.0,1.0,"Drafting scripts, rewriting emails","Neutral, AI won't create engineers out of nothing",1.0,1.0,1.0,3.0,5.0,5.0,5.0,26-35,Male,Bachelor’s degree,United Arab Emirates,
+86.0,Yes,IT / Tech,Retail Solution Specialist,More than 15 years,"Microsoft Copilot, GitHub Copilot",Yes,"Microsoft Copilot, GitHub Copilot",A few times a month,1.0,4.0,3.0,5.0,4.0,4.0,4.0,5.0,5.0,5.0,"Fleet Solution, Telematics",Get the repetitive work done by AI,4.0,4.0,4.0,4.0,4.0,4.0,4.0,36-45,Male,Master’s degree,United Arab Emirates,
+87.0,Yes,IT / Tech,Devops Engineer,8–15 years,Microsoft Copilot,Yes,Microsoft Copilot,Daily,3.0,2.0,4.0,5.0,3.0,3.0,4.0,1.0,4.0,3.0,scipst,good,3.0,3.0,3.0,4.0,4.0,4.0,4.0,26-35,Male,Bachelor’s degree,United Arab Emirates,
+88.0,Yes,IT / Tech,Senior data analyst ,8–15 years,"Microsoft Copilot, GitHub Copilot",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), Claude (Anthropic), Microsoft Copilot",A few times a week,3.0,4.0,3.0,4.0,1.0,2.0,2.0,1.0,3.0,1.0,"Simple scripts, boilerplate generation, formatting email writing ",Neutral ,4.0,3.0,1.0,4.0,4.0,4.0,5.0,26-35,Male,Bachelor’s degree,United Arab Emirates,
+89.0,Yes,IT / Tech,Software Engineer,8–15 years,Google Gemini (Formerly Bard),Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), GitHub Copilot",A few times a month,4.0,4.0,5.0,5.0,4.0,4.0,5.0,5.0,3.0,1.0,"generated evaluation reports from daily tasks
+emails communications",I have reported that normally,1.0,1.0,1.0,3.0,5.0,5.0,5.0,26-35,Male,Bachelor’s degree,United Arab Emirates,
+90.0,Yes,IT / Tech,Software engineer ,8–15 years,"ChatGPT (OpenAI), Claude (Anthropic), Microsoft Copilot, GitHub Copilot",Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), Claude (Anthropic), Microsoft Copilot, GitHub Copilot",Daily,5.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,"My answers are biased because I work with generative AI tools every day to build complex products. I focus on integrating different tools into my routine as smoothly and efficiently as possible. I’m an AI engineer, someone whose job is to figure out how to use AI to solve real problems and make the world better. And by the way, I wish you all the best.","Btw I just used it to phrase the answer above lol. It’s a tool while it’s my own responsibility to use it the best way possible. The comparison is between me and the AI, vs either me without AI or AI without me. I think both are less than our team. I love us!",4.0,4.0,4.0,5.0,5.0,5.0,5.0,26-35,Male,Master’s degree,United States,
+91.0,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+92.0,Yes,"Finance / Banking, Government / Public sector",Development Officer,1–3 years,,No,,,,,,,,,,,,,,,,,,,,,,,,,,
+93.0,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94.0,Yes,Manufacturing,Senior Engineer,1–3 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard), Own AI bot",No,,,,,,,,,,,,,,,,,,,,,,,,,,
+95.0,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+96.0,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+97.0,Yes,IT / Tech,software engg dev,Less than 1 year,ChatGPT (OpenAI),No,,,,,,,,,,,,,,,,,,,,,,,,,,
+98.0,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+99.0,Yes,IT / Tech,,Less than 1 year,"ChatGPT (OpenAI), Claude (Anthropic), Microsoft Copilot, GitHub Copilot",Yes,"ChatGPT (OpenAI), Claude (Anthropic), Microsoft Copilot, GitHub Copilot",Daily,3.0,3.0,4.0,2.0,4.0,5.0,4.0,3.0,1.0,2.0,Coding,Pretty good,1.0,1.0,2.0,4.0,5.0,5.0,4.0,18-25,Male,Bachelor’s degree,India,
+100.0,Yes,IT / Tech,,8–15 years,,No,,,,,,,,,,,,,,,,,,,,,,,,,,
+101.0,Yes,IT / Tech,IP design engineer ,8–15 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard)",No,,,,,,,,,,,,,,,,,,,,,,,,,,
+102.0,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+103.0,Yes,Healthcare,Internship physician,Less than 1 year,,Yes,"ChatGPT (OpenAI), Google Gemini (formerly Bard), Grok",A few times a week,3.0,3.0,2.0,4.0,4.0,3.0,3.0,4.0,2.0,3.0,It helps me diagnose the patient and choose the appropriate medication and dosage for him.,"I feel a bit of a contradiction, a positive feeling that I'm keeping up with modern technology and adept at using it as a reality and a necessity. Sometimes I feel like I'm training my mind to be dependent and lazy.",2.0,3.0,4.0,3.0,3.0,2.0,3.0,26-35,Male,Bachelor’s degree,Egypt,
+104.0,Yes,IT / Tech,Marketing and automation specialist,1–3 years,"ChatGPT (OpenAI), Google Gemini (Formerly Bard)",Yes,ChatGPT (OpenAI),Daily,4.0,4.0,3.0,5.0,4.0,4.0,4.0,3.0,5.0,4.0,"Market Research, Client Communication and marketing ",I'm the founder of my company so I totally agree,4.0,3.0,5.0,5.0,5.0,5.0,4.0,26-35,Male,Bachelor’s degree,Oman,
+105.0,Yes,"Finance / Banking, ",محاماه,4–7 years,ChatGPT (OpenAI),Yes,Google Gemini (formerly Bard),Daily,2.0,2.0,2.0,3.0,2.0,3.0,3.0,3.0,3.0,3.0,Yes ,Yes ,3.0,3.0,3.0,3.0,3.0,2.0,2.0,26-35,Male,Bachelor’s degree,Saudi Arabia,
+106.0,Yes,Automotives,Parts advisor ,8–15 years,Google Gemini (Formerly Bard),Yes,Google Gemini (formerly Bard),A few times a month,3.0,4.0,5.0,5.0,3.0,5.0,5.0,5.0,3.0,2.0,Emails,I don't know ,2.0,1.0,1.0,1.0,2.0,3.0,3.0,26-35,Male,Bachelor’s degree,Saudi Arabia,
+107.0,Yes,IT / Tech,CM Trainer ,1–3 years,"Google Gemini (Formerly Bard), Company private AI",Yes,"Google Gemini (formerly Bard), Company private AI",Daily,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,"Training outlines, Training materials ",It’s recommended ,5.0,5.0,,5.0,5.0,5.0,3.0,36-45,Male,Bachelor’s degree,Poland,
+108.0,Yes,Healthcare,Stellvertretende Pflegedienst Leitung ,8–15 years,ChatGPT (OpenAI),Yes,ChatGPT (OpenAI),Daily,1.0,1.0,1.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,"Ich habe dass benutzt in meine facharbeit 
+Ich habe benutzt in meine neue Projekt 
+يساعدني في حياتي اليوميه العمليه وًالعلميه و المهنيه",احس بفخر لما استمعله ,5.0,5.0,5.0,5.0,5.0,5.0,5.0,26-35,Female,Bachelor’s degree,Germany,
+109.0,Yes,Government / Public sector,Mechanical Engineer ,8–15 years,Microsoft Copilot,Yes,"ChatGPT (OpenAI), Microsoft Copilot",A few times a week,2.0,3.0,2.0,5.0,3.0,3.0,4.0,3.0,3.0,3.0,"Research, document preparations, benchmarking ",I feel not interested in showing that I used Gen AI ,3.0,1.0,2.0,3.0,3.0,1.0,5.0,26-35,Male,Master’s degree,Qatar,
+110.0,Yes,IT / Tech,Test developer - production,8–15 years,"Google Gemini (Formerly Bard), Claude (Anthropic)",Yes,"Google Gemini (formerly Bard), Claude (Anthropic)",Daily,3.0,2.0,5.0,5.0,4.0,4.0,2.0,4.0,4.0,4.0,"- development,  clause is integrated into our repository so we can personalize it and help with coding and code reviews. 
+- we have a lot of processes, and documentation that we need to go through. Gemini is very helpful when answer questions related to company documents or devices/tools user guide.",We are asked to use AI in our daily activities. Management pushing toward using AI to improve efficiency. ,1.0,4.0,2.0,4.0,5.0,5.0,5.0,36-45,Male,Master’s degree,Canada,
+111.0,Yes,Consulting,BD,More than 15 years,ChatGPT (OpenAI),Yes,ChatGPT (OpenAI),A few times a week,3.0,3.0,3.0,2.0,4.0,3.0,3.0,4.0,3.0,2.0,"Marketing Research, Proposal related to spesific topic and revision of Financial plans","I did modification not copy and past, rephrasing or adding from my own knowledge ",1.0,1.0,2.0,3.0,1.0,1.0,3.0,46-55,Female,Master’s degree,United Arab Emirates,
+112.0,Yes,IT / Tech,Developer,1–3 years,Microsoft Copilot,Yes,Microsoft Copilot,Daily,4.0,4.0,4.0,2.0,5.0,4.0,4.0,4.0,4.0,4.0,"Drafting emails, coding",Yes,3.0,4.0,4.0,5.0,5.0,4.0,5.0,26-35,Female,Bachelor’s degree,India,
+113.0,Yes,Government / Public sector,Lab assistant,1–3 years,ChatGPT (OpenAI),No,,,,,,,,,,,,,,,,,,,,,,,,,,
+114.0,Yes,Education / Academia,Student,1–3 years,ChatGPT (OpenAI),Yes,ChatGPT (OpenAI),A few times a week,4.0,2.0,5.0,5.0,4.0,5.0,5.0,4.0,2.0,1.0,coding and idea collection,"A bit shameful, but I still know that I use it only if I can't find an immediate answer per google and that I am able to question the AI's answers",3.0,4.0,1.0,3.0,4.0,2.0,4.0,18-25,Female,High school or equivalent,Germany,
+115.0,Yes,Healthcare,Student assistant ,1–3 years,I don't know for sure,No,,,,,,,,,,,,,,,,,,,,,,,,,,
+116.0,Yes,Education / Academia,SHK,Less than 1 year,,Yes,ChatGPT (OpenAI),A few times a week,4.0,4.0,5.0,5.0,4.0,4.0,3.0,3.0,2.0,1.0,"Translation, writing of abstracts for a study","Not so good. Since AI ist not necessary for my work, the thought of my supervisor finding out stresses me a bit",2.0,3.0,3.0,4.0,3.0,3.0,4.0,18-25,Female,Bachelor’s degree,Germany,
+117.0,Yes,Oil and Gas,Section Head Production Operation,More than 15 years,,No,,,,,,,,,,,,,,,,,,,,,,,,,,
+118.0,Yes,IT / Tech,Software Architect,8–15 years,Google Gemini (Formerly Bard),Yes,"Google Gemini (formerly Bard), DeepSeek",A few times a month,4.0,3.0,4.0,5.0,3.0,3.0,3.0,4.0,3.0,2.0,"Validation of texts that will be presented to users, structuring emails, summarizing conversations in meetings",neutral,2.0,3.0,3.0,4.0,4.0,5.0,4.0,26-35,Male,Bachelor’s degree,Brazil,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, unfamiliar or new API usage;I’m comfortable ;3.0;3.0;3.0;4.0;5.0;5.0;5.0;62;Male;Bachelor’s degree;Brazil;4
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," GitHub Copilot;Daily;1.0;5.0;5.0;3.0;5.0;5.0;3.0;;4.0;4.0;""Coding "
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, higher order thinking based assignments and creating presentations ;Technologies are bound to make work easier and makes me more productive hence I feel completely relax to report the same;2.0;2.0;2.0;5.0;4.0;5.0;5.0;26-35;Female;Master’s degree;India;5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
